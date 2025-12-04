@@ -1,0 +1,5 @@
+{
+  "name": "NovaSignal Trader",
+  "description": "Assistant de trading en temps réel avec transformation Heikin Ashi, détection de tendance algorithmique et signaux de confluence.",
+  "requestFramePermissions": []
+}
